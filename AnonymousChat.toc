@@ -1,0 +1,11 @@
+## Interface: 110002
+## Title: AnonymousChat
+## SavedVariables: AnonymousChat
+## IconTexture: Interface\AddOns\AnonymousChat\icon
+## Notes: Allows guild members to chat anonymously.
+## Notes-deDE: Erlaubt es Gildenmitgliedern untereinander anonym zu schreiben.
+## Author: Andor Nemes
+## Version: v1
+## X-Category: Chat & Communication
+
+AnonymousChat.lua
