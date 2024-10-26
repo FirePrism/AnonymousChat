@@ -1,4 +1,4 @@
-## Interface: 110002
+## Interface: 110005
 ## Title: AnonymousChat
 ## SavedVariables: AnonymousChat
 ## IconTexture: Interface\AddOns\AnonymousChat\icon
